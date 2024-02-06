@@ -1,4 +1,4 @@
-![](./assets/programando.gif)
+![](./inicio/programando.gif)
 
 <p>
 <!--     <h1><b>Hi! there, I´m Danx398 💻</b></h1> -->

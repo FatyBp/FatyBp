@@ -1,4 +1,4 @@
-![](./assets/code.gif)
+![](./assets/programando.gif)
 
 <p>
 <!--     <h1><b>Hi! there, I´m Danx398 💻</b></h1> -->
@@ -45,9 +45,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width=32/>
 </div>
 
-### <picture> <img src = "https://github.com/FatyBp/FatyBp/blob/master/inicio/programando.gif" width = 20px>  </picture> IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 <!--
 
 

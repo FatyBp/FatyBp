@@ -10,7 +10,7 @@
     <br>
 </p>
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+
 
 ### Languajes and Tools
 
